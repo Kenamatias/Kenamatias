@@ -49,7 +49,10 @@ Seja bem vindo ao meu perfil!! ☺
   <img align="center" alt="Rafa-CSS"  width="40" height="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   </div>
-  
+  <img align="center" alt="Rafa-CSS"  width="40" height="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" />
+  </div>
+
   ##
  
 <div> 
