@@ -12,7 +12,7 @@
 -->
 Seja bem vindo ao meu perfil!! ☺
 ## Olá! 
-<strong> Meu nome é Matheus Matias, tenho 26 anos e sou Analista de suporte e Aspirante a DevOps/Cloud. <strong/>
+<strong> Meu nome é Matheus Matias, tenho 26 anos e sou Analista de Operações Cloud. <strong/>
   
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenamatias&show_icons=true&theme=dark)
