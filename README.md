@@ -26,7 +26,7 @@ Seja bem vindo ao meu perfil!! ☺
 
 
 - :man_technologist: ♾️ Focado em aplicar meu conhecimento para resolver problemas de infraestrutura, e melhorar a eficiência de processos de negócios.
-- ☁️ Atualmente estou estudando para a certificação: AWS Cloud Practitioner Set/23 ⏳☁️
+- ☁️certificação: AWS Cloud Practitioner Nov/23 ✅☁️
 
 ## Tecnologias
 <div style="display: inline_block"><br>
