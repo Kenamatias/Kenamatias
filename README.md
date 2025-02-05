@@ -28,8 +28,8 @@ Seja bem vindo ao meu perfil!! ☺
 - :man_technologist: ♾️ Focado em aplicar meu conhecimento para resolver problemas de infraestrutura, e melhorar a eficiência de processos de negócios.
 - ☁️certificação: AWS Cloud Practitioner ✅☁️
 - ☁️certificação: OCI Foundations Associate ✅☁️
-- ☁️certificação: AWS Cloud Solution architect Jun/24 ⌛☁️
-- ☁️certificação: Azure AZ-900 Jun/24 ⌛☁️
+- ☁️certificação: AWS Cloud Solution architect 
+- ☁️certificação: Azure AZ-900 ✅☁️
 
 ## Tecnologias
 <div style="display: inline_block"><br>
